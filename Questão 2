@@ -1,0 +1,6 @@
+<?php
+$num1 = (float) radline("digite o primeiro numero: ");
+$num2 = (float) redline("digite o segundo numero: ");
+$soma = $num1 + $num2;
+echo "a soma dos dois numeros é: $soma\n";
+?>
