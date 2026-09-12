@@ -1,0 +1,7 @@
+<?php
+$num1 = (float) readline("Digite o primeiro número: ");
+$num2 = (float) readline("Digite o segundo número: ");
+$multiplicacao = $num1 * $num2;
+$subtracao = $num1 - $num2;
+echo "o resultado da multiplicação: $multiplicacao\n";
+echo "o resultado da subtração: $subtracao\n";
