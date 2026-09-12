@@ -1,0 +1,13 @@
+<?php
+$num1 = (float) readline("Digite o primeiro número: ");
+$num2 = (float) readline("Digite o segundo número: ");
+$soma = $num1 + $num2;
+$subtracao = $num1 - $num2;
+$multiplicacao = $num1 * $num2;
+$divisao = $num1 / $num2;
+
+echo "A soma deu: $soma\n";
+echo "A subtração deu: $subtracao\n";
+echo "A multiplicação deu: $multiplicacao\n";
+echo "A divisão deu: $divisao\n";
+?>
