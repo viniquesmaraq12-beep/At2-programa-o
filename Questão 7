@@ -1,0 +1,7 @@
+<?php
+$valor = (float) readline("Digite o valor do produto: ");
+$quantidade = (int) readline("Digite a quantidade adquerida: ");
+$total = $valor * $quantidade;
+
+echo "o valor total da compra foi: $total\n";
+?> "
