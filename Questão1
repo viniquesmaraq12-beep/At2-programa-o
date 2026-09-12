@@ -1,0 +1,4 @@
+<?php
+$inteiro = (int) readline("Digite um número inteiro: ");
+echo "O número digitado foi: $inteiro\n";
+?>
